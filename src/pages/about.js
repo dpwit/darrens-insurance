@@ -1,5 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import'./main.scss'
+
 
 const About = () => {
     return (

@@ -1,0 +1,2 @@
+(self.webpackChunkdarrens_insurance=self.webpackChunkdarrens_insurance||[]).push([[682],{518:function(e,t,n){"use strict";n.r(t);var r=n(294),a=n(444);t.default=function(){return r.createElement(r.Fragment,null,r.createElement("h1",null,"About"),r.createElement(a.rU,{to:"/"},"Home"),r.createElement(a.rU,{to:"/contact/"},"Contact"),r.createElement(a.rU,{to:"https://www.google.co.uk"},"Google"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-55ec688bf7f1853bceaa.js.map

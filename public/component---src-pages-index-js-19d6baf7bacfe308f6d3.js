@@ -1,0 +1,2 @@
+(self.webpackChunkdarrens_insurance=self.webpackChunkdarrens_insurance||[]).push([[678],{704:function(e,n,t){"use strict";t.r(n);var r=t(294),a=t(444);n.default=function(){return r.createElement(r.Fragment,null,r.createElement("h1",null,"Darrens Insurance"),r.createElement(a.rU,{to:"/about/"},"About"),r.createElement(a.rU,{to:"/contact/"},"Contact"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-19d6baf7bacfe308f6d3.js.map

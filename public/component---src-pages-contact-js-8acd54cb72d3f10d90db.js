@@ -1,0 +1,2 @@
+(self.webpackChunkdarrens_insurance=self.webpackChunkdarrens_insurance||[]).push([[501],{262:function(e,n,t){"use strict";t.r(n);var r=t(294),a=t(444);n.default=function(){return r.createElement(r.Fragment,null,r.createElement("h1",null,"Contact"),r.createElement(a.rU,{to:"/"},"Home"),r.createElement(a.rU,{to:"/about/"},"About"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-8acd54cb72d3f10d90db.js.map

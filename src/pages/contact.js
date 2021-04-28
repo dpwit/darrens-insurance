@@ -1,16 +1,15 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-const Home = () => {
-
+const Contact = () => {
     return (
         <>
-            <h1>Darrens Insurance</h1>
+            <h1>Contact</h1>
+            <Link to='/'>Home</Link>
             <Link to='/about/'>About</Link>
-            <Link to='/contact/'>Contact</Link>
         </>
     )
 }
 
-export default Home
+export default Contact
 

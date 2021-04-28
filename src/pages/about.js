@@ -6,6 +6,7 @@ const About = () => {
         <>
             <h1>About</h1>
             <Link to='/'>Home</Link>
+            <Link to='/contact/'>Contact</Link>
             <Link to='https://www.google.co.uk' target='_blank'>Google</Link>
         </>
     )

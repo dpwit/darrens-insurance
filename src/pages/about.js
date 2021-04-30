@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import Navigation from '../components/navigation/Navigation'
 import Button from '../components/button/Button'
 
 const About = () => {
@@ -11,9 +11,7 @@ const About = () => {
     return (
         <>
             <h1>About</h1>
-            <Link to='/'>Home</Link>
-            <Link to='/contact/'>Contact</Link>
-            <Link to='https://www.google.co.uk'>Google</Link>
+            <Navigation />
             <Button onClick={sayHello}>Next</Button>
         </>
     )

@@ -1,13 +1,12 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import Navigation from '../components/navigation/Navigation'
 import Button from '../components/button/Button'
 
 const Contact = () => {
     return (
         <>
             <h1>Contact</h1>
-            <Link to='/'>Home</Link>
-            <Link to='/about/'>About</Link>
+            <Navigation />
             <Button>Contact us</Button>
         </>
     )
